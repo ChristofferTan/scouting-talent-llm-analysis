@@ -24,13 +24,14 @@ Using this structured representation, we analyze:
 ---
 
 ## 📁 Repository Structure
+```bash
 ├── data/
 │ └── scouting_traits_processed.xlsx
 ├── notebooks/
 │ ├── 01_llm_pipeline.ipynb
 │ └── 02_visualizations.ipynb
 └── README.md
-
+```
 ---
 
 ## ⚙️ How to Run
