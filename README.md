@@ -34,7 +34,7 @@ nhl-scouting-trait-analysis/
 │ └── 02_visualizations.ipynb
 └── README.md
 ```
-### 📂 Description
+### Description
 
 - **data/**
   - `scouting_traits_processed.xlsx`: Processed output from the LLM pipeline containing extracted traits and classifications.
