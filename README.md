@@ -25,6 +25,8 @@ Using this structured representation, we analyze:
 
 ## 📁 Repository Structure
 ```bash
+nhl-scouting-trait-analysis/
+│
 ├── data/
 │ └── scouting_traits_processed.xlsx
 ├── notebooks/
@@ -32,6 +34,15 @@ Using this structured representation, we analyze:
 │ └── 02_visualizations.ipynb
 └── README.md
 ```
+### 📂 Description
+
+- **data/**
+  - `scouting_traits_processed.xlsx`: Processed output from the LLM pipeline containing extracted traits and classifications.
+
+- **notebooks/**
+  - `01_llm_pipeline.ipynb`: Extracts phrases from scouting reports and classifies them into trait categories.
+  - `02_visualizations.ipynb`: Generates all visualizations, including trait distributions, temporal trends, and word clouds.
+
 ---
 
 ## ⚙️ How to Run
