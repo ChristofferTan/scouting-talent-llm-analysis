@@ -24,12 +24,15 @@ Using this structured representation, we analyze:
 ---
 
 ## 📁 Repository Structure
-.
+nhl-scouting-trait-analysis/
+│
 ├── data/
-│   └── scouting_traits_processed.xlsx
+│   └── scouting_traits_processed.xlsx   # Output from LLM pipeline
+│
 ├── notebooks/
-│   ├── 01_llm_pipeline.ipynb
-│   └── 02_visualizations.ipynb
+│   ├── 01_llm_pipeline.ipynb            # Extracts and processes scouting report data
+│   └── 02_visualizations.ipynb          # Generates all figures and analysis
+│
 └── README.md
 
 ---
