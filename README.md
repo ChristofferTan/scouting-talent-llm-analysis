@@ -1,4 +1,4 @@
-# Reconstructing the perception of sports talent through the view of scouts:  A textual analysis with Large Language Models
+# Structured discovery of scouts’ perception with text and a large language model: The case of ice hockey
 
 This project analyzes how player “talent” is described in NHL scouting reports using a combination of large language models (LLMs) and statistical analysis. We extract structured information from unstructured scouting reports and study how different traits are used to evaluate players across positions and over time.
 
